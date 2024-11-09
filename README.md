@@ -1,16 +1,6 @@
 # responsive_design
 
-A new Flutter project.
+Dummy Clone of YT - responsive
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![responsive_design_mobile](https://github.com/user-attachments/assets/ce3ae590-a905-418a-80a3-012ea5a5e8d7)
+![responsive_design_desktop](https://github.com/user-attachments/assets/1146a88c-c1f5-48dc-8a95-dd89de16d0f8)
